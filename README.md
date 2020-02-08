@@ -1,2 +1,2 @@
-# HDL_Assignment_Solutions
-Assignment solutions  for Hardware Description Languages for FPGA Design course
+# HDL Assignment Solutions
+This repository includes assignment solutions  of Hardware Description Languages for FPGA Design course which provided by University of Colorado Boulder on Coursera.
